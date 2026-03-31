@@ -88,17 +88,22 @@ The dataset includes customer-related information such as:
  📁**Project Structure**
 
 ```
-Insurance-Cross-Selling/
-│── data/
-│   └── insurance_data.csv
-│
-│── notebooks/
-│   └── analysis.ipynb
-│
-│── reports/
-│   └── Insurance_Report.pdf
-│
-│── README.md
+## 📁 Project Structure
+
+* 📂 [data](../tree/main/data)
+
+  * 📄 [insurance_data.csv](../blob/main/data/insurance_data.csv)
+
+* 📂 [notebooks](../tree/main/notebooks)
+
+  * 📄 [analysis.ipynb](../blob/main/notebooks/analysis.ipynb)
+
+* 📂 [reports](../tree/main/reports)
+
+  * 📄 [Insurance_Report.pdf](../blob/main/reports/Insurance_Report.pdf)
+
+* 📄 [README.md](../blob/main/README.md)
+
 ```
 
 ---
