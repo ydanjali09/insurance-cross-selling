@@ -86,23 +86,21 @@ The dataset includes customer-related information such as:
 ---
 
  📁**Project Structure**
+--- 
 
-```
-## 📁 Project Structure
+📂 [data](./tree/main/data)
 
-* 📂 [data](../tree/main/data)
+  📄 [insurance_data](./blob/main/data/insurance_data.csv)
 
-  * 📄 [insurance_data.csv](../blob/main/data/insurance_data.csv)
+📂 [code](./tree/main/notebooks)
 
-* 📂 [notebooks](../tree/main/notebooks)
+  📄 [analysis.ipynb](./blob/main/notebooks/analysis.ipynb)
 
-  * 📄 [analysis.ipynb](../blob/main/notebooks/analysis.ipynb)
+📂 [reports](./tree/main/reports)
 
-* 📂 [reports](../tree/main/reports)
+   📄 [Insurance_Report.pdf](./blob/main/reports/Insurance_Report.pdf)
 
-  * 📄 [Insurance_Report.pdf](../blob/main/reports/Insurance_Report.pdf)
-
-* 📄 [README.md](../blob/main/README.md)
+   📄 [README.md](./blob/main/README.md)
 
 ```
 
