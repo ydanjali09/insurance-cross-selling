@@ -86,18 +86,17 @@ The dataset includes customer-related information such as:
 ---
 
  📁**Project Structure**
----
-insurance-cross-selling/
-│── data/
-│── code/
-│── reports/
+**LINK**-https://github.com/ydanjali09/insurance-cross-selling
+insurance-cross-selling
+│── data
+│── code
+│── reports
 │── README.md
 ```
+🚀**Conclusion**
 
-🚀 **Conclusion**
-
-This project demonstrates how data analysis can help businesses identify the right customers for cross-selling. By understanding customer behavior and segmentation, companies can improve conversion rates and optimize their marketing strategies.
-
+This analysis helps identify high-potential customers for cross-selling.  
+Companies should focus on targeted marketing to improve conversion rates.
 ---
 
 🙋‍♀️ **Author**
