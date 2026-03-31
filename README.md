@@ -77,16 +77,13 @@ The dataset includes customer-related information such as:
 ---
 
  📁 **Project Structure**
+ 
 **LINK**-https://github.com/ydanjali09/insurance-cross-selling
- 📂 [data] 
-  - 📄 [insurance_data.csv] 
 
-  📂 [code] 
-  - 📄 [analysis.ipynb]
-  📂 [reports]
-  - 📄 [Insurance_Report.pdf]
-- 📄 [README.md]
-
+ Insurance-Cross-Selling
+│── data/
+│── notebooks/
+│── reports/
 ---
  **Conclusion**
  
