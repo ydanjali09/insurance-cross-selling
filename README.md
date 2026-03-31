@@ -86,25 +86,14 @@ The dataset includes customer-related information such as:
 ---
 
  📁**Project Structure**
---- 
-
-📂 [data]
-
-  📄 [insurance_data](./blob/main/data/insurance_data.csv)
-
-📂 [code]
-
-  📄 [analysis.ipynb](./blob/main/notebooks/analysis.ipynb)
-
-📂 [reports]
-
-   📄 [Insurance_Report.pdf](./blob/main/reports/Insurance_Report.pdf)
-
-   📄 [README.md](./blob/main/README.md)
-
+---
+insurance-cross-selling/
+│── data/
+│── code/
+│── reports/
+│── README.md
 ```
 
----
 🚀 **Conclusion**
 
 This project demonstrates how data analysis can help businesses identify the right customers for cross-selling. By understanding customer behavior and segmentation, companies can improve conversion rates and optimize their marketing strategies.
