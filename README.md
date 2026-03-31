@@ -77,20 +77,21 @@ The dataset includes customer-related information such as:
 ---
 
  📁 **Project Structure**
-
-- 📂 [data](./data)  
+**LINK**-https://github.com/ydanjali09/insurance-cross-selling
+- 📂 [data] 
   - 📄 [insurance_data.csv](./data/insurance_data.csv)  
 
-- 📂 [code](./code)  
+- 📂 [code] 
   - 📄 [analysis.ipynb](./code/analysis.ipynb)  
 
-- 📂 [reports](./reports)  
+- 📂 [reports]
   - 📄 [Insurance_Report.pdf](./reports/Insurance_Report.pdf)  
 
-- 📄 [README.md](./README.md)  
+- 📄 [README.md]
 
 ---
  **Conclusion**
+ 
 This project demonstrates how **data analysis can guide cross-selling strategies**. By understanding customer segments and behavior, companies can increase conversions, optimize marketing efforts, and maximize revenue.
 
 ---
